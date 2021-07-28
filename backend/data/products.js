@@ -1,0 +1,111 @@
+const products = [
+  {
+    name: 'Land',
+    image: '/images/land.jpeg',
+    description:
+      'A bereaved woman seeks out a new life, off the grid in Wyoming.',
+    brand: 'Netflix',
+    category: 'Drama',
+    price: 10,
+    countInStock: 3,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'The call of the wild',
+    image: '/images/the-call-of-the-wild.jpg',
+    description: 'A sled dog struggles for survival in the wilds of the Yukon.',
+    brand: 'Netflix',
+    category: 'Thriller',
+    price: 20,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'The courier',
+    image: '/images/the-courier.jpg',
+    description:
+      'Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.',
+    brand: 'Sony',
+    category: 'Thriller',
+    price: 10,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'The invisible guest',
+    image: '/images/the-invisible-guest.jpg',
+    description:
+      'A successful entrepreneur accused of murder and a witness preparation expert have less than three hours to come up with an impregnable defense.',
+    brand: 'Netflix',
+    category: 'Crime',
+    price: 20,
+    countInStock: 10,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Wrath of man',
+    image: '/images/wrath-of-man.jpeg',
+    description:
+      'The plot follows H, a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.',
+    brand: 'Netflix',
+    category: 'Action',
+    price: 10,
+    countInStock: 7,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'The Father',
+    image: '/images/the-father.jpeg',
+    description:
+      'A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.',
+    brand: 'Sony',
+    category: 'Drama',
+    price: 10,
+    countInStock: 4,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'El Camino',
+    image: '/images/el-camino.jpeg',
+    description:
+      'Fugitive Jesse Pinkman runs from his captors, the law, and his past.',
+    brand: 'Netflix',
+    category: 'Crime',
+    price: 20,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Breaking Bad',
+    image: '/images/breaking-bad.jpg',
+    description:
+      'A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family future.',
+    brand: 'Netflix',
+    category: 'Drama',
+    price: 10,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+  {
+    name: 'Better call Saul',
+    image: '/images/better-call-saul.jpeg',
+    description:
+      'The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico.',
+    brand: 'Netflix',
+    category: 'Action',
+    price: 20,
+    countInStock: 0,
+    rating: 0,
+    numReviews: 0,
+  },
+]
+
+export default products

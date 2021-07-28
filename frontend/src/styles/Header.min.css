@@ -1,0 +1,28 @@
+.color-nav {
+  background: #090b13;
+  padding: 10px;
+  align-items: center;
+}
+
+.container-styles {
+  width: 100%;
+  padding: 0;
+}
+
+.nav-dropdown {
+  color: white;
+}
+
+.div-center {
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  height: 70px;
+  width: 70px;
+  cursor: pointer;
+}
+
+.register-space {
+  margin-right: 20px;
+}
